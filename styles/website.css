@@ -1,0 +1,16 @@
+/* CSS for website */
+
+.center-align {
+    text-align: center;
+    text-decoration: none;
+}
+.page-inner {
+	width: 70%;
+}
+.gitbook-link {
+	font-size: .6em;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+}

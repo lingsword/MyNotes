@@ -1,0 +1,35 @@
+{
+    "language": "zh-hans",
+    "variables": {
+        "title": "我的笔记",
+        "theme": "theme-green"
+    },
+    "plugins": [
+        "ace",
+        "codeblock-filename",
+        "github",
+        "emphasize",
+        "splitter",
+        "expandable-chapters",
+        "toc",
+        "yahei"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/"
+        },
+        "toc": {
+            "addClass": true,
+            "className": "toc"
+       },
+        "fontSettings": {
+             "theme": "white",
+             "family": "msyh",
+             "size": 2
+       }
+    },
+    "pdf": {
+         "pageNumbers": false,
+         "paperSize": "a4"
+     }
+}
